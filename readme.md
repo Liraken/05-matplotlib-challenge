@@ -8,10 +8,10 @@ Files and analysis are in `Pymeceuticals` directory
 
 ### References
 This homework assignment was done with help from Ashelyn Allred \
-	*https://github.com/AshelynAllred/matplotlib-challenge
-	*(Formatting text of pi chart slice labels only)  
-Andrey Sobolev (2015, Jan 12). *Python \- How to change autopct text color to be white in a pie chart?*  
-https://stackoverflow.com/questions/27898830/python-how-to-change-autopct-text-color-to-be-white-in-a-pie-chart
+	*https://github.com/AshelynAllred/matplotlib-challenge \
+	*(Formatting text of pi chart slice labels only)  \
+Andrey Sobolev (2015, Jan 12). *Python \- How to change autopct text color to be white in a pie chart?*  \
+https://stackoverflow.com/questions/27898830/python-how-to-change-autopct-text-color-to-be-white-in-a-pie-chart\
 
 ## Instructions
 Prepare the Data
