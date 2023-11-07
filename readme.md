@@ -7,7 +7,7 @@ Files and analysis are in `Pymeceuticals` directory
 3. The difference in number of measurements between the drugs seems to be a potential flaw in the study, The number of measurements seem to be decently biased towards the two seemingly more effective drugs in Capomulin, and Ramicane meanwhile all of the other drugs seem to have about 13% less measurments.
 
 ### References
-This homework assignment was done with help from Ashelyn Allred
+This homework assignment was done with help from Ashelyn Allred /n
 	*https://github.com/AshelynAllred/matplotlib-challenge
 	*(Formatting text of pi chart slice labels only)  
 Andrey Sobolev (2015, Jan 12). *Python \- How to change autopct text color to be white in a pie chart?*  
