@@ -20,8 +20,19 @@ https://stackoverflow.com/questions/27898830/python-how-to-change-autopct-text-c
 2. Mouse weight appears to be highly corralated with the size of the tumor, Figuring out whether fat mice get larger tumors or Larger tumors lead to mice weighing more would require more study.
 3. The difference in number of measurements between the drugs seems to be a potential flaw in the study, The number of measurements seem to be decently biased towards the two seemingly more effective drugs in Capomulin, and Ramicane meanwhile all of the other drugs seem to have about 13% less measurments.
 
+<<<<<<< HEAD
 # Background
 You've just joined Pymaceuticals, Inc., a new pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
+=======
+### References
+This homework assignment was done with help from Ashelyn Allred \
+	*https://github.com/AshelynAllred/matplotlib-challenge \
+	 Formatting text of pi chart slice labels only  \
+https://stackoverflow.com/questions/27898830/python-how-to-change-autopct-text-color-to-be-white-in-a-pie-chart  \
+	 Adding Labels to bar charts \
+https://stackoverflow.com/questions/27898830/python-how-to-change-autopct-text-color-to-be-white-in-a-pie-chart \
+
+>>>>>>> bac6112305e400a595df6a981750eb6bddf5fca8
 
 As a senior data analyst at the company, you've been given access to the complete data from their most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
 
