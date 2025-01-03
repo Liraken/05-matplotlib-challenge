@@ -27,7 +27,7 @@ As a senior data analyst at the company, you've been given access to the complet
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
-## Instructions
+# Instructions
 This assignment is broken down into the following tasks:
 
 * Prepare the data.
@@ -98,7 +98,7 @@ hint: All four box plots should be within the same figure. Use this Matplotlib d
 
 2. Plot the linear regression model on top of the previous scatter plot.
 
-## Requirements
+# Requirements
 * Prepare the Data (20 points)
 * The datasets are merged into a single DataFrame. (6 points)
 * The number of mice are shown from the merged DataFrame. (2 points)
